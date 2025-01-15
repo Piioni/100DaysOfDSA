@@ -1,6 +1,6 @@
 package Day_02;
 
-public class Main {
+public class PowerOfTwo {
     public static void main(String[] args) {
 
         String str = """

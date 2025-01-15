@@ -2,7 +2,7 @@ package Day_03;
 
 import java.util.Scanner;
 
-public class Main {
+public class Fibonacci {
     public static void main(String[] args) {
         String str = """
                 The Fibonacci numbers, commonly denoted F(n) form a sequence, called the Fibonacci sequence, 

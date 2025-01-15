@@ -2,7 +2,7 @@ package Day_01;
 
 import java.util.Scanner;
 
-public class Main {
+public class Palindrome {
     public static void main(String[] args) {
 
         //Palindrome number
