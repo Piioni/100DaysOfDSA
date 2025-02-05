@@ -47,6 +47,4 @@ public class FindPeakElement {
         }
         return nums.length -1;
     }
-
-
 }
